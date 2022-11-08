@@ -8,4 +8,5 @@ Steps are given as follows:
 - Build a CNN model
 - Train and validate the model
 - Test the model with test dataset
+
 Project details are given in the pdf file. You can download the dataset from this link: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
